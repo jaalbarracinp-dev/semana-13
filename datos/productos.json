@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "nombre": "Hamburguesa Clásica",
+    "categoria": "Hamburguesas",
+    "precio": 5.5,
+    "cantidad": 20
+  },
+  {
+    "id": 2,
+    "nombre": "Pizza Personal",
+    "categoria": "Pizzas",
+    "precio": 7.0,
+    "cantidad": 15
+  },
+  {
+    "id": 3,
+    "nombre": "Papas Fritas",
+    "categoria": "Acompañamientos",
+    "precio": 2.5,
+    "cantidad": 30
+  },
+  {
+    "id": 4,
+    "nombre": "Jugo Natural",
+    "categoria": "Bebidas",
+    "precio": 1.75,
+    "cantidad": 25
+  }
+]
